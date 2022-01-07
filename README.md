@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Unity serious games
-- 🌱 I’m currently learning Unity, C#, PostgreSQL and refactoring techniques
+- 🌱 I’m currently learning Unity, C#, Python and Web Scraping
 - ❤️ I love learning about how to improve my code
 
 ### Some stats
