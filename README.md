@@ -8,8 +8,8 @@
 
 <a href="https://github.com/LamenLuan">
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamenLuan&layout=compact&langs_count=8&theme=dark&bg_color=0D1117" height="175px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=LamenLuan&theme=dark&bg_color=0D1117" height="175px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamenLuan&layout=compact&langs_count=8&theme=dark&bg_color=0D1117&env=PAT_1" height="175px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=LamenLuan&theme=dark&bg_color=0D1117&env=PAT_1" height="175px"/>
   </p>
 </a>
 
