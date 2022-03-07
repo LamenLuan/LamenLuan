@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unity serious games
-- 🌱 I’m currently learning Unity, C#, Python and Web Scraping
+- 🔭 I’m currently working on Unity serious games, Godot and C# Applications
+- 🌱 I’m currently learning Unity, Godot and C#
 - ❤️ I love learning about how to improve my code
 
 ### Some stats
