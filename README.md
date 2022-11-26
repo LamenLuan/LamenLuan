@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Unity serious games, C# and JS + Bootstrap web applications
+- 🔭 I’m currently working on C# and JS + Bootstrap web applications
 - 🌱 I’m currently learning C# and Javascript
 - ❤️ I love learning about how to improve my code
 
