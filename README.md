@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on C# and JS + Bootstrap web applications
-- 🌱 I’m currently learning C# and Javascript
+- 🌱 I’m currently learning C#, Python and Javascript
 - ❤️ I love learning about how to improve my code
 
 ### Some stats
